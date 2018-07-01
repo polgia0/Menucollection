@@ -1,0 +1,12 @@
+Package: Menucollection
+Type: Package
+Title: Collection of Configurable GTK+ Menus
+Version: 1.3
+Date: 2018-07-01
+Author: Gianmarco Polotti
+Maintainer: Gianmarco Polotti <gianmarco.polotti@gmail.com>
+Description: Set of configurable menus built with GTK+ to graphically interface new functions.
+Depends: R (>= 3.0.0), RGtk2, RGtk2Extras
+Imports: gplots, grDevices, graphics
+Suggests:
+License: GPL-2
